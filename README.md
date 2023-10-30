@@ -19,3 +19,6 @@ You may also see any lint errors in the console.
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
 
 ```
+
+
+### [Final Deployed Project](https://main--jade-cranachan-a6b72b.netlify.app/#tours)
