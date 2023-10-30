@@ -25,7 +25,7 @@ export default function About() {
             help every type of traveler not only find the trip that’s right for
             them, but get the best value every time.
           </p>
-          <a href="#" className="btn">
+          <a href="#about" className="btn">
             read more
           </a>
         </article>
